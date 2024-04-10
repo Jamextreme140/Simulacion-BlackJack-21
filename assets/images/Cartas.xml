@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Cartas.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="Corazones0000.png"	x="676"	y="235"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Corazones0001.png"	x="1012"	y="705"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Corazones0002.png"	x="0"	y="1175"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Corazones0003.png"	x="0"	y="940"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Corazones0004.png"	x="1012"	y="470"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Corazones0005.png"	x="0"	y="470"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Corazones0006.png"	x="0"	y="235"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Corazones0007.png"	x="0"	y="0"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Corazones0008.png"	x="676"	y="940"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Corazones0009.png"	x="169"	y="940"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Corazones0010.png"	x="0"	y="1645"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Corazones0011.png"	x="169"	y="0"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Corazones0012.png"	x="1012"	y="235"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0000.png"	x="844"	y="1645"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0001.png"	x="844"	y="1410"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0002.png"	x="507"	y="235"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0003.png"	x="507"	y="1410"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0004.png"	x="844"	y="705"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0005.png"	x="507"	y="940"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0006.png"	x="507"	y="470"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0007.png"	x="844"	y="235"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0008.png"	x="676"	y="1645"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0009.png"	x="676"	y="1410"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0010.png"	x="507"	y="1175"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0011.png"	x="676"	y="0"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Diamantes0012.png"	x="676"	y="705"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Joker0000.png"	x="507"	y="1645"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0000.png"	x="1013"	y="0"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0001.png"	x="338"	y="1175"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0002.png"	x="338"	y="0"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0003.png"	x="338"	y="940"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0004.png"	x="1012"	y="940"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0005.png"	x="0"	y="1410"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0006.png"	x="507"	y="705"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0007.png"	x="0"	y="705"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0008.png"	x="676"	y="1175"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0009.png"	x="507"	y="0"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0010.png"	x="338"	y="1645"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0011.png"	x="338"	y="1410"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Picas0012.png"	x="845"	y="0"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0000.png"	x="844"	y="470"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0001.png"	x="338"	y="705"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0002.png"	x="338"	y="470"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0003.png"	x="338"	y="235"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0004.png"	x="844"	y="940"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0005.png"	x="169"	y="1645"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0006.png"	x="169"	y="1410"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0007.png"	x="169"	y="1175"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0008.png"	x="844"	y="1175"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0009.png"	x="169"	y="705"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0010.png"	x="169"	y="470"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0011.png"	x="169"	y="235"	width="168"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+	<SubTexture name="Treboles0012.png"	x="676"	y="470"	width="167"	height="234" frameX="-0" frameY="-0" frameWidth="168" frameHeight="234"/>
+</TextureAtlas>
